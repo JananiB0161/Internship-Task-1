@@ -37,5 +37,8 @@ The dataset contained information about all Pixar movies including their budget,
 
 I was able to explore how many movies had different IMDB scores.
 
-Output:
 All steps and analysis are saved in a Jupyter Notebook file: Task 1 - Pixar Big Data.ipynb.
+
+Output:
+
+![pixar_task1_output](https://github.com/user-attachments/assets/97eff9f4-9f0d-40cc-92c8-4eb0e162cd29)
